@@ -1,0 +1,84 @@
+/* header section */
+
+.navbar {
+    padding: 0px;
+    background-color: black !important;
+}
+
+.header {
+    background-color: black;
+}
+
+#navbarNav {
+    /* padding-left: 15%; */
+    font-family: 'Abril Fatface', cursive;
+    font-size: 20px;
+}
+
+#icon {
+    background-color: red;
+    color: black;
+}
+
+hr {
+    width: 5%;
+    stroke: black;
+    border-top: 5px dotted;
+}
+
+
+/* Header Section Ends */
+
+
+/* Population Vs Accidents Section */
+
+.popvsacc {
+    font-family: 'Fondamento', cursive;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+h5 {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+h2 {
+    padding-bottom: 4%;
+}
+
+
+/* Violine Section */
+
+.violine {
+    font-family: 'Fondamento', cursive;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+#selectFilters {
+    width: 20%;
+    margin-bottom: 2%;
+}
+
+
+/* footer section */
+
+.footer {
+    /* height: 60px; */
+    background-color: black;
+    font-family: 'Fondamento', cursive;
+    line-height: 1.875rem;
+    letter-spacing: .1px;
+    color: white;
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+
+/* Violine Plot section */
+
+
+/* .violinePlot{
+    padding-left: 2%;
+} */
